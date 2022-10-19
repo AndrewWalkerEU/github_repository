@@ -8,5 +8,4 @@ int main(void){
   cout << "Third LED" << endl;
   cout << "Fourth LED" << endl;
   cout << "Fifth LED" << endl;
-  cout << "Sixth LED" << endl;
 }
